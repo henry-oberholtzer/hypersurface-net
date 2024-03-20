@@ -1,0 +1,24 @@
+:root {
+  font-family: "Space Grotesk";
+  color: #FFFFFF;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#root {
+  padding: 0;
+  margin: 0;
+}
+
+@font-face {
+  font-family: "Zen Dots";
+  src: url("./fonts/ZENDOTS-REGULAR.TTF");
+}
+
+@font-face {
+  font-family: "Space Grotesk";
+  src: url("./fonts/SPACEGROTESK-VARIABLEFONT_WGHT.TTF")
+}
